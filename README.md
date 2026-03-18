@@ -36,9 +36,7 @@ Se quiser trocar uma ideia sobre tecnologia ou dados, sinta-se à vontade!
 
 * 📧 **Email:** [gabrieladecaldas@gmail.com](mailto:gabrieladecaldas@gmail.com)
 * 📸 **Instagram:** [@gabrielladecaldas326](https://instagram.com/gabrielladecaldas326)
-* 💼 **LinkedIn:** [gabrieladecaldas-svg](https://linkedin.com/in/gabrieladecaldas-svg)
-
----
+  
 <p align="center">
   <i>"In God we trust, all others must bring data." - W. Edwards Deming</i>
 </p>
